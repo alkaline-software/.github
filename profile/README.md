@@ -33,11 +33,11 @@ A Mac window switcher: ⌘Tab between windows, not apps.
 
 <br clear="left">
 
-<a href="https://github.com/alkaline-software/MiniNotes"><img src="assets/mininotes.png" alt="MiniNotes icon" width="80" align="left"></a>
+<a href="https://github.com/alkaline-software/onyx"><img src="assets/onyx.png" alt="Onyx icon" width="80" align="left"></a>
 
-### [MiniNotes](https://github.com/alkaline-software/MiniNotes)
+### [Onyx](https://github.com/alkaline-software/onyx)
 
-Quick Markdown notes from the macOS menu bar.
+A note-taking app that keeps your notes as plain Markdown files in a folder of your own. Built in Rust with GPUI for macOS, Windows and Linux.
 
 <br clear="left">
 
