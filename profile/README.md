@@ -28,9 +28,9 @@ Dictation anywhere on your Mac, run on your machine so nothing you say leaves it
 
 <br clear="left">
 
-<a href="https://github.com/alkaline-software/tabflip"><img src="assets/tabflip.png" alt="tabflip icon" width="80" align="left"></a>
+<a href="https://github.com/alkaline-software/tabflip"><img src="assets/tabflip.png" alt="Tabflip icon" width="80" align="left"></a>
 
-### [tabflip](https://github.com/alkaline-software/tabflip)
+### [Tabflip](https://github.com/alkaline-software/tabflip)
 
 A Mac window switcher: ⌘Tab between windows, not apps.
 
