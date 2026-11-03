@@ -1,6 +1,9 @@
-<p align="center"><img src="assets/alkaline.png" alt="Alkaline Software logo" width="120"></p>
-
-<h1 align="center">Alkaline Software</h1>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.png">
+    <img src="assets/header-light.png" alt="Alkaline Software" width="522">
+  </picture>
+</p>
 
 Alkaline Software is a two-person development team. The name comes from chemistry, where "alkaline" means basic (high pH). We build software that is basic in the sense of "things that should plainly exist."
 
