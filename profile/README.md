@@ -37,7 +37,7 @@ A Mac window switcher: ⌘Tab between windows, not apps.
 
 ### [Onyx](https://github.com/alkaline-software/onyx)
 
-A note-taking app that keeps your notes as plain Markdown files in a folder of your own. Built in Rust with GPUI for macOS, Windows and Linux.
+Markdown notes on your Mac, kept as plain files in a folder of your own.
 
 <br clear="left">
 
