@@ -12,49 +12,37 @@ Alkaline Software is a two-person development team. The name comes from chemistr
 
 ## Projects
 
-<a href="https://emaki.lol"><img src="assets/emaki.png" alt="Emaki icon" width="80" align="left"></a>
-
-### [Emaki](https://emaki.lol)
+### <a href="https://emaki.lol"><img src="assets/emaki.png" alt="Emaki icon" width="80" align="left"></a> [Emaki](https://emaki.lol)
 
 The agentic development environment. The agent chat takes the middle of the window, with sessions grouped under their projects. Works with Claude Code and Codex on macOS, Windows and Linux.
 
 <br clear="left">
 
-<a href="https://github.com/alkaline-software/kotoba"><img src="assets/kotoba.png" alt="Kotoba icon" width="80" align="left"></a>
-
-### [Kotoba](https://github.com/alkaline-software/kotoba)
+### <a href="https://github.com/alkaline-software/kotoba"><img src="assets/kotoba.png" alt="Kotoba icon" width="80" align="left"></a> [Kotoba](https://github.com/alkaline-software/kotoba)
 
 Dictation anywhere on your Mac, run on your machine so nothing you say leaves it.
 
 <br clear="left">
 
-<a href="https://github.com/alkaline-software/tabflip"><img src="assets/tabflip.png" alt="Tabflip icon" width="80" align="left"></a>
-
-### [Tabflip](https://github.com/alkaline-software/tabflip)
+### <a href="https://github.com/alkaline-software/tabflip"><img src="assets/tabflip.png" alt="Tabflip icon" width="80" align="left"></a> [Tabflip](https://github.com/alkaline-software/tabflip)
 
 A Mac window switcher: ⌘Tab between windows, not apps.
 
 <br clear="left">
 
-<a href="https://github.com/alkaline-software/mado"><img src="assets/mado.png" alt="Mado icon" width="80" align="left"></a>
-
-### [Mado](https://github.com/alkaline-software/mado)
+### <a href="https://github.com/alkaline-software/mado"><img src="assets/mado.png" alt="Mado icon" width="80" align="left"></a> [Mado](https://github.com/alkaline-software/mado)
 
 A Mac window manager: halves, corners and the next display from the keyboard, or by dragging a window to an edge of the screen.
 
 <br clear="left">
 
-<a href="https://github.com/alkaline-software/onyx"><img src="assets/onyx.png" alt="Onyx icon" width="80" align="left"></a>
-
-### [Onyx](https://github.com/alkaline-software/onyx)
+### <a href="https://github.com/alkaline-software/onyx"><img src="assets/onyx.png" alt="Onyx icon" width="80" align="left"></a> [Onyx](https://github.com/alkaline-software/onyx)
 
 Markdown notes on your Mac, kept as plain files in a folder of your own.
 
 <br clear="left">
 
-<a href="https://github.com/alkaline-software/MiniCalendar"><img src="assets/minicalendar.png" alt="MiniCalendar icon" width="80" align="left"></a>
-
-### [MiniCalendar](https://github.com/alkaline-software/MiniCalendar)
+### <a href="https://github.com/alkaline-software/MiniCalendar"><img src="assets/minicalendar.png" alt="MiniCalendar icon" width="80" align="left"></a> [MiniCalendar](https://github.com/alkaline-software/MiniCalendar)
 
 A macOS menu bar calendar with Chinese lunar calendar support.
 
