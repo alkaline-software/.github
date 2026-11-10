@@ -36,6 +36,14 @@ A Mac window switcher: ⌘Tab between windows, not apps.
 
 <br clear="left">
 
+<a href="https://github.com/alkaline-software/mado"><img src="assets/mado.png" alt="Mado icon" width="80" align="left"></a>
+
+### [Mado](https://github.com/alkaline-software/mado)
+
+A Mac window manager: halves, corners and the next display from the keyboard, or by dragging a window to an edge of the screen.
+
+<br clear="left">
+
 <a href="https://github.com/alkaline-software/onyx"><img src="assets/onyx.png" alt="Onyx icon" width="80" align="left"></a>
 
 ### [Onyx](https://github.com/alkaline-software/onyx)
